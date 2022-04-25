@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 I'm [Gayathri Gopalsami](http://my-django-portfolioapp.herokuapp.com/portfolio/GayathriG), located at Hyderabad India, a **passionate Software Engineer** and a **Data Science Enthusiast**. I have 11 years of experience as Sr.Software Engineer in IT industry specializing in backend development predominantly with Oracle DB.
 
 As an individual with strong belief that **the data isn’t just data** always seeking for the more story that a data can reveal and thrive on the challenges it presents. This brought me to deep dive into a new branch of science - Data Science. 
@@ -10,10 +9,13 @@ I also believe that best way to learn something is to teach and share the knowle
 - 🔭 I’m currently working at Oracle India Pvt Ltd
 - 🌱 I’m currently learning Machine Learning , Artificial Intelligence and DataScience
 - 👯 I’m looking to collaborate with other Data Science Enthusiasts / Data Scientists
+- :1st_place_medal: Become a Data Leader
+- :trophy: Winner of Top 5 Budding Data Science Leaders Award 2022 by [INSAID](https://www.linkedin.com/posts/insaid_insaid-dataleaders-winners-activity-6889930504129384448-Kfc8?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - 💬 I like to tell stories through my articles on Medium.
 - :mailbox:  Reach me : gayathri_g21@yahoo.com
 - 😄 I want to contribute to open source as I have learnt a lot from this community
-- ⚡ Fun fact: I love stories. I read fictional books, Watch lots and lots of movies and web series. I enjoy dancing and working out.
+- :earth_asia: I wish to travel to every nook and corner of the world
+- :heart: I love stories. I read fictional books, Watch lots and lots of movies , hooked to thrillers. I enjoy dancing and working out.
 
 
 ### [![connect](https://github.com/gayathrig21/gayathrig21/blob/main/icons/icons8-connect-64.png)][0] with me on
