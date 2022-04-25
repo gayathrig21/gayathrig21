@@ -15,7 +15,7 @@ I also believe that best way to learn something is to teach and share the knowle
 
 ### Connect with me on
 
-[![yahoo](https://github.com/gayathrig21/gayathrig21/blob/main/icons/yahoo-icon-8815.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://github.com/gayathrig21/gayathrig21/blob/main/icons/3721674_linkedin.png)][3]
+[![yahoo](https://raw.githubusercontent.com/gayathrig21/gayathrig21/main/icons/yahoo-icon-8815-Windows.ico)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://github.com/gayathrig21/gayathrig21/blob/main/icons/icons8-linkedin-circled-48.png)][3]
 
 [1]: gayathri_g21@yahoo.com
 [2]: https://www.linkedin.com/in/gayathri-g-40054964/
