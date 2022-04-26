@@ -29,16 +29,32 @@ I seek to learn every day. I also believe that the best way to learn something i
 [3]: https://www.facebook.com/gayathri.gopalsami/
 
 ### Tools and Languanges 
-[![java](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-java%2Boriginal%2Bwordmark-1324760550562670345_64.png)][1]
-[![oracle](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-oracle%2Boriginal-1324760554740539051_64.png)][1]
-[![sql](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-file%2Bsql%2Bicon-1320183612970878250_64.png)][1]
-[![python](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-python%2Boriginal-1324760557612294785_64.png)][1]
-[![aws](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-vscode%2Bicons%2Btype%2Baws-1324451241902374102_64.png)][1]
-[![flask](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-flask-1324440159344911937_64.png)][1]
-[![django](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-django%2Boriginal-1324760528615991833_64.png)][1]
-[![tableau](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-tableau-1324440241057830765_64.png)][1]
-[![r](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-R-1324888756528554807_64.png)][1]
-[![vs](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-studio%2Bvisual%2Bwindows%2Bicon%2Bicon-1320194641881841293_64.png)][1]
+
+[![oracle](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-oracle%2Boriginal-1324760554740539051_64.png)][4]
+[![databases](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-database-131994967728648637_64.png)][5]
+[![sql](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-file%2Bsql%2Bicon-1320183612970878250_64.png)][6]
+[![python](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-python%2Boriginal-1324760557612294785_64.png)][7]
+[![java](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-java%2Boriginal%2Bwordmark-1324760550562670345_64.png)][8]
+[![aws](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-vscode%2Bicons%2Btype%2Baws-1324451241902374102_64.png)][9]
+[![flask](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-flask-1324440159344911937_64.png)][10]
+[![django](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-django%2Boriginal-1324760528615991833_64.png)][11]
+[![git](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-git%2Bplain-1324760546493886750_64.png)][12]
+[![tableau](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-tableau-1324440241057830765_64.png)][13]
+[![r](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-R-1324888756528554807_64.png)][14]
+[![vs](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-studio%2Bvisual%2Bwindows%2Bicon%2Bicon-1320194641881841293_64.png)][15]
+
+[4]: https://www.oracle.com/index.html
+[5]: https://www.oracle.com/in/database/
+[6]: https://www.oracle.com/in/database/technologies/appdev/sqldeveloper-landing.html
+[7}: https://www.python.org/
+[8]: https://www.java.com/en/
+[9]: https://aws.amazon.com/?nc2=h_lg
+[10]: https://flask.palletsprojects.com/en/2.1.x/
+[11]: https://www.djangoproject.com/
+[12]: https://git-scm.com/
+[13]: https://www.tableau.com/
+[14]: https://www.r-project.org/
+[15]: https://code.visualstudio.com/
 
 
 
