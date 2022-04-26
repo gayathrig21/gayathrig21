@@ -18,13 +18,15 @@ I seek to learn every day. I also believe that the best way to learn something i
 - :heart: I love stories. I read fictional books, Watch lots and lots of movies, hooked on thrillers. I enjoy dancing and working out.
 
 
-### [![connect](https://github.com/gayathrig21/gayathrig21/blob/main/icons/icons8-connect-64.png)][0] with me on
+### Connect with me on
 
-[![medium](https://github.com/gayathrig21/gayathrig21/blob/main/icons/icons8-medium-new-64.png)][1][![linkedin](https://github.com/gayathrig21/gayathrig21/blob/main/icons/icons8-linkedin-64.png)][2][![facebook](https://github.com/gayathrig21/gayathrig21/blob/main/icons/icons8-facebook-64.png)][3]
+[![medium](https://github.com/gayathrig21/gayathrig21/blob/main/icons/icons8-medium-new-64.png)][1]
+[![linkedin](https://github.com/gayathrig21/gayathrig21/blob/main/icons/icons8-linkedin-64.png)][2]
+[![facebook](https://github.com/gayathrig21/gayathrig21/blob/main/icons/icons8-facebook-64.png)][3]
 
-[0]:www.google.com
 [1]: https://medium.com/@gayathri_g21
 [2]: https://www.linkedin.com/in/gayathri-g-40054964/
 [3]: https://www.facebook.com/gayathri.gopalsami/
+
 
 
