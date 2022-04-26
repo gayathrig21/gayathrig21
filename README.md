@@ -46,7 +46,7 @@ I seek to learn every day. I also believe that the best way to learn something i
 [4]: https://www.oracle.com/index.html
 [5]: https://www.oracle.com/in/database/
 [6]: https://www.oracle.com/in/database/technologies/appdev/sqldeveloper-landing.html
-[7}: https://www.python.org/
+[7]: https://www.python.org/
 [8]: https://www.java.com/en/
 [9]: https://aws.amazon.com/?nc2=h_lg
 [10]: https://flask.palletsprojects.com/en/2.1.x/
