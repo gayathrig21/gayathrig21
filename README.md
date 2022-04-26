@@ -28,5 +28,21 @@ I seek to learn every day. I also believe that the best way to learn something i
 [2]: https://www.linkedin.com/in/gayathri-g-40054964/
 [3]: https://www.facebook.com/gayathri.gopalsami/
 
+### Tools and Languanges 
+[![java](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-java%2Boriginal%2Bwordmark-1324760550562670345_64.png)][1]
+[![oracle](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-oracle%2Boriginal-1324760554740539051_64.png)][1]
+[![sql](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-file%2Bsql%2Bicon-1320183612970878250_64.png)][1]
+[![python](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-python%2Boriginal-1324760557612294785_64.png)][1]
+[![aws](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-vscode%2Bicons%2Btype%2Baws-1324451241902374102_64.png)][1]
+[![flask](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-flask-1324440159344911937_64.png)][1]
+[![django](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-django%2Boriginal-1324760528615991833_64.png)][1]
+[![tableau](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-tableau-1324440241057830765_64.png)][1]
+[![r](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-R-1324888756528554807_64.png)][1]
+[![vs](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-studio%2Bvisual%2Bwindows%2Bicon%2Bicon-1320194641881841293_64.png)][1]
+
+
+
+
+
 
 
