@@ -42,6 +42,7 @@ I seek to learn every day. I also believe that the best way to learn something i
 [![tableau](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-tableau-1324440241057830765_64.png)][13]
 [![r](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-R-1324888756528554807_64.png)][14]
 [![vs](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-studio%2Bvisual%2Bwindows%2Bicon%2Bicon-1320194641881841293_64.png)][15]
+[![github](https://github.com/gayathrig21/gayathrig21/blob/main/icons/download-icon-github%2Bnetwork%2Bshare%2Bsocial%2Bsquare%2Bicon-1320086086636119316_64.png)][16]
 
 [4]: https://www.oracle.com/index.html
 [5]: https://www.oracle.com/in/database/
@@ -55,6 +56,7 @@ I seek to learn every day. I also believe that the best way to learn something i
 [13]: https://www.tableau.com/
 [14]: https://www.r-project.org/
 [15]: https://code.visualstudio.com/
+[16]: https://docs.github.com/en
 
 
 
